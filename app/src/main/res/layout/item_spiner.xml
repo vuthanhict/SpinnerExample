@@ -1,0 +1,9 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tvText"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/list_item"
+    android:gravity="center"
+    android:singleLine="true"
+    android:text="@android:string/unknownName"
+    android:textColor="#3D3D3D"
+    android:textSize="15sp" />

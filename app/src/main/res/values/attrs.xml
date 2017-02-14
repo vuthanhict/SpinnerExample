@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CpnCustomSpinner">
+        <attr name="backgroundType" />
+    </declare-styleable>
+    <attr name="backgroundType" format="integer">
+        <enum name="normal" value="0" />
+        <enum name="gray" value="1" />
+    </attr>
+</resources>
